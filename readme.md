@@ -4,4 +4,4 @@ You can directly run this scrit using this command
 
 python sshbruteforcer.py
 
-![](images\images\image1.jpg)
+![](images/image1.png)
